@@ -22,6 +22,7 @@ html {
     font-size: 50px;
     background: linear-gradient(85deg, rgba(24, 29, 33, 1) 13%, rgba(56, 184, 255, 1) 100%);
     -webkit-background-clip: text;
+    
     -webkit-text-fill-color: transparent;
   }
   
